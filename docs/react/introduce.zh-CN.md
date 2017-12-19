@@ -143,6 +143,7 @@ import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 - [美团](http://www.meituan.com)
 - [滴滴](http://www.xiaojukeji.com/)
 - [饿了么](https://www.ele.me/)
+- [聚合数据](http://finance.juhe.cn)
 
 > 如果你的公司和产品使用了 Ant Design，欢迎到 [这里](https://github.com/ant-design/ant-design/issues/477) 留言。
 
